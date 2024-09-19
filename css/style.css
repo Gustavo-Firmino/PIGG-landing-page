@@ -1,0 +1,47 @@
+/*elementos genericos*/
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Barlow';
+    font-size: 28px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(174, 84, 84);
+    padding: 15px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 12px;
+}
+
+/*classes*/
+    .principal{
+        background-color: rgb(243, 242, 233);
+    }
+
+    .container-1{
+        background-color: aqua;
+        max-width: 99%;
+        margin-top: 20px;
+        padding: 15px;
+    }
+    .container-2{
+        background-color: aquamarine;
+        max-width: 99%;
+        margin-top: 20px;
+        padding: 15px;
+    }
+    .container-3{
+        background-color: blue;
+        max-width: 99%;
+        margin-top: 20px;
+        padding: 15px;
+    }
+
+/*id*/
+
+#menu{
+    background-color: blueviolet;
+    border-radius: 12px;
+    padding: 5%;
+}
